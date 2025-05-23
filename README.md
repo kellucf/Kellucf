@@ -4,10 +4,10 @@
 - Estudando back-end com Python 
 - Estudando TypeScript, Python, JavaScript, HTML e CSS
 - Contato : kelofc1@gmail.com
-<div>
+<div style="inline_block"><br>
   <a href="https://github.com/kellucf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kellucf&show_icons=true&hide_border=true&title_color=ff0000&text_color=ff0000&icon_color=ff0000&locale=pt-br&bg_color=000000&border_radius=15&hide_title=true"/>
-  <img height="180em" width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellucf&layout=compact&langs_count=16&bg_color=000000&hide_border=true&title_color=ff0000&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellucf&layout=compact&langs_count=16&bg_color=000000&hide_border=true&title_color=ff0000&text_color=ffffff"/>
 </div>
 
 <div style="display: inline_block"><br>
