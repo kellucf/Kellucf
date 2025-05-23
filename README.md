@@ -6,7 +6,7 @@
 - Contato : kelofc1@gmail.com
 
   <a href="https://github.com/Kelzyx">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelzyx&show_icons=true&hide_border=true&title_color=ff0000&text_color=ff0000&icon_color=ff0000&locale=pt-br&bg_color=000000&border_radius=15&hide_title=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelzyx&layout=compac&langs_count=16&bg_color=000000&hide_border=true&title_color=ff0000&text_color=ffffff&card_width=500&) 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelzyx&show_icons=true&hide_border=true&title_color=ff0000&text_color=ff0000&icon_color=ff0000&locale=pt-br&bg_color=000000&border_radius=15&hide_title=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelzyx&layout=compact&langs_count=16&bg_color=000000&hide_border=true&title_color=ff0000&text_color=ffffff&card_width=500&) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="KelJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
